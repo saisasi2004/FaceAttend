@@ -1,0 +1,40 @@
+PROPRIETARY LICENSE AGREEMENT
+
+Copyright (c) 2026 GSSV. All rights reserved.
+
+This software ("FaceAttend") and its accompanying documentation are proprietary to GSSV. 
+This is a legal agreement between you (either an individual or a single entity) and GSSV.
+
+1. GRANT OF LICENSE
+This license grants you the right to use the software for internal business purposes only, 
+subject to the purchase of a valid commercial license and/or active subscription. 
+
+2. RESTRICTIONS
+- You may NOT redistribute, sublicense, rent, lease, or lend the software to any third party.
+- You may NOT modify, merge, adapt, or translate the software.
+- You may NOT reverse engineer, decompile, disassemble, or attempt to derive the source code 
+  or the underlying AI model architecture.
+- You may NOT use the software for any purpose that is unlawful or prohibited by this agreement.
+
+3. OWNERSHIP
+All title, including but not limited to copyrights, in and to FaceAttend and any copies 
+thereof are owned by GSSV. All rights not expressly granted are reserved by GSSV.
+
+4. TERMINATION
+GSSV reserves the right to terminate this license if you fail to comply with the terms 
+and conditions. Upon termination, you must destroy all copies of the software.
+
+5. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT 
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION 
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. DATA PRIVACY
+The licensee is solely responsible for ensuring that the use of facial recognition 
+technology complies with all applicable local, state, and international data privacy laws 
+and regulations.
+
+For licensing inquiries or support, please contact GSSV.
