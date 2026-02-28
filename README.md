@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./static/assets/scanner.png" alt="FaceAttend Logo" width="150" height="150">
+<img src="scanner.png" alt="FaceAttend Logo" width="150" height="150">
 
 # FaceAttend
 
